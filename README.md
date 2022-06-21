@@ -7,19 +7,19 @@
 
 如何查看自己的chrome版本。
 
-![1.jpg](https://github.com/kzccat/screenshot/blob/master/src/main/resources/chrome/1655797118570.png)
+![1655797118570.png](https://github.com/kzccat/screenshot/blob/master/src/main/resources/chrome/1655797118570.png)
 
-![2.jpg]https://github.com/kzccat/screenshot/blob/master/src/main/resources/chrome/1655797194112.png)
+![1655797194112.png](https://github.com/kzccat/screenshot/blob/master/src/main/resources/chrome/1655797194112.png)
 
 
 
 下载完成后 请将chromedriver.exe文件放到自己PC上chrome文件夹的application文件夹下
-![3.jpg]https://github.com/kzccat/screenshot/blob/master/src/main/resources/chrome/1655797303577.png)
+![1655797303577.png](https://github.com/kzccat/screenshot/blob/master/src/main/resources/chrome/1655797303577.png)
 
 
 
 进入代码中，将下图中所示的路径改为自己电脑中的Chromedriver.exe所在路径
-![4.jpg]https://github.com/kzccat/screenshot/blob/master/src/main/resources/chrome/1655797392525.png)
+![1655797392525.png](https://github.com/kzccat/screenshot/blob/master/src/main/resources/chrome/1655797392525.png)
 
 
 
